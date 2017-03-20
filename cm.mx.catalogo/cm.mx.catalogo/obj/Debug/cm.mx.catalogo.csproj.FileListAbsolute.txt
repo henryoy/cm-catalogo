@@ -1,0 +1,10 @@
+c:\users\henry\documents\visual studio 2013\Projects\cm.mx.catalogo\cm.mx.catalogo\bin\Debug\cm.mx.catalogo.dll
+c:\users\henry\documents\visual studio 2013\Projects\cm.mx.catalogo\cm.mx.catalogo\bin\Debug\cm.mx.catalogo.pdb
+c:\users\henry\documents\visual studio 2013\Projects\cm.mx.catalogo\cm.mx.catalogo\bin\Debug\cm.mx.dbcore.dll
+c:\users\henry\documents\visual studio 2013\Projects\cm.mx.catalogo\cm.mx.catalogo\bin\Debug\FluentNHibernate.dll
+c:\users\henry\documents\visual studio 2013\Projects\cm.mx.catalogo\cm.mx.catalogo\bin\Debug\Iesi.Collections.dll
+c:\users\henry\documents\visual studio 2013\Projects\cm.mx.catalogo\cm.mx.catalogo\bin\Debug\NHibernate.dll
+c:\users\henry\documents\visual studio 2013\Projects\cm.mx.catalogo\cm.mx.catalogo\bin\Debug\Iesi.Collections.xml
+c:\users\henry\documents\visual studio 2013\Projects\cm.mx.catalogo\cm.mx.catalogo\bin\Debug\NHibernate.xml
+c:\users\henry\documents\visual studio 2013\Projects\cm.mx.catalogo\cm.mx.catalogo\obj\Debug\cm.mx.catalogo.dll
+c:\users\henry\documents\visual studio 2013\Projects\cm.mx.catalogo\cm.mx.catalogo\obj\Debug\cm.mx.catalogo.pdb
